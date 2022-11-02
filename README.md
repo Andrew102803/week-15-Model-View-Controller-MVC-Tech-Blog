@@ -6,4 +6,4 @@ If a user would like to create their own blog they can sign up to create an acco
 
 ![image](https://user-images.githubusercontent.com/106626454/191140311-c502b71e-f1b3-4e35-84fe-749717216105.png)
 
-https://arcane-shore-27269.herokuapp.com
+
